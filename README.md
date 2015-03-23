@@ -1,6 +1,6 @@
 quizle
 ======
-A Sporcle-like demo in vanilla Javascript
+A Sporcle-like demo in vanilla Javascript (written in 2013)
 
 ![Quizle screenshot](screenshot.png)
 
